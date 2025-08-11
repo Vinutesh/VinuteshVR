@@ -1,3 +1,25 @@
+## 🚀 GitHub Stats
+
+![Vinutesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=VinuteshVR&show_icons=true&theme=radical)
+
+## 🔗 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vinutesh-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-linkedin-profile)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=googlesite)](https://yourwebsite.com)
+
+## 🎥 Project Demo
+
+![Demo GIF](https://media.giphy.com/media/your-demo-url.gif)
+
+[Live Demo](https://your-live-demo-link.com)
+
+---
+
+## 📊 Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VinuteshVR&layout=compact&theme=radical)
+
+
 # 👋 Hi, I'm Vinutesh VR
 
 Aspiring Backend Developer | MCA Candidate | Tech Enthusiast  
