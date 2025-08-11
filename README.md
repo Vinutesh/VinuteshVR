@@ -49,8 +49,7 @@ I am a quick learner with a passion for backend systems and scalable architectur
 ## 📫 Connect with Me
 
 - GitHub: [VinuteshVR](https://github.com/VinuteshVR)  
-- LinkedIn: _[Add your LinkedIn profile URL here]_  
-- Portfolio: _[Add your personal website URL here]_  
+- LinkedIn: [https://www.linkedin.com/in/vinutesh-v-r-312b33259/]  
 
 ---
 
