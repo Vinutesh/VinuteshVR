@@ -1,4 +1,3 @@
-# Vinutesh VR
 # 👋 Hi, I'm Vinutesh VR
 
 Aspiring Backend Developer | MCA Candidate | Tech Enthusiast  
