@@ -46,18 +46,18 @@ Based in Bengaluru, India
 ## 📂 Projects
 
 - **Precision Smart Irrigation Rover (In Progress)**
-- Developing an autonomous rover equipped with soil moisture, GPS, and compass sensors to navigate fields and collect high‑resolution moisture data for precision irrigation.​
-- Building a full‑stack web platform with real‑time maps and heatmaps so farmers can visualize moisture distribution and make data‑driven irrigation decisions.​
+  Developing an autonomous rover equipped with soil moisture, GPS, and compass sensors to navigate fields and collect high‑resolution moisture data for precision irrigation.​
+  Building a full‑stack web platform with real‑time maps and heatmaps so farmers can visualize moisture distribution and make data‑driven irrigation decisions.​
 
 - **Contact Management System**
-- Implemented a web-based contact manager supporting full CRUD operations for storing and managing user contact information.​
+  Implemented a web-based contact manager supporting full CRUD operations for storing and managing user contact information.​
 
 - **Library Management System**
-- Built a system to handle book records, user records, issue/return workflows, and fine calculation for a small library environment.​
+  Built a system to handle book records, user records, issue/return workflows, and fine calculation for a small library environment.​
 
 - **Enhancing Network Efficiency: Load Balancing & Latency Optimization**
-- Simulated network traffic in Python to study how latency and Bandwidth Delay Product affect throughput in business networks.​
-- Evaluated Round Robin, Least Connections, and Weighted algorithms and recommended an approach that reduced simulated latency by around 15%.
+  Simulated network traffic in Python to study how latency and Bandwidth Delay Product affect throughput in business networks.​
+  Evaluated Round Robin, Least Connections, and Weighted algorithms and recommended an approach that reduced simulated latency by around 15%.
 
 ---
 
