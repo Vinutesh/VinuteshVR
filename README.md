@@ -4,12 +4,13 @@ Research-oriented IoT & Backend Developer | MCA Candidate | Building Autonomous 
 Based in Bengaluru, India  
 📞 +91 7624817835  
 
-💫 About Me
-🏫 MCA candidate at RV Institute of Technology and Management, focusing on IoT, backend development, and autonomous systems.​
-🧑🏻💻 Research-oriented IoT and backend developer based in Bengaluru, building rover systems, APIs, and data-driven web applications.​
-👨🏫 Organizing Head of the CodeXplorers Club at RVITM, leading a 100+ member tech community and hands-on technical events.​
-💬 Passionate about autonomous robots, sensor fusion, and real-time data analytics that bridge embedded hardware with modern web platforms.​
-🌱 Currently working on a precision smart irrigation rover and always exploring new tools, frameworks, and ideas to ship impactful projects.
+##💫 About Me
+
+-🏫 MCA candidate at RV Institute of Technology and Management, focusing on IoT, backend development, and autonomous systems.​
+-🧑🏻💻 Research-oriented IoT and backend developer based in Bengaluru, building rover systems, APIs, and data-driven web applications.​
+-👨🏫 Organizing Head of the CodeXplorers Club at RVITM, leading a 100+ member tech community and hands-on technical events.​
+-💬 Passionate about autonomous robots, sensor fusion, and real-time data analytics that bridge embedded hardware with modern web platforms.​
+-🌱 Currently working on a precision smart irrigation rover and always exploring new tools, frameworks, and ideas to ship impactful projects.
 
 ---
 
@@ -34,11 +35,11 @@ Based in Bengaluru, India
 
 ## 🏆 Professional Experience
 
-- **Test Automation Intern** – ContextQA, Remote
+- **##Test Automation Intern** – ContextQA, Remote
   Executed 50+ automated test cases on the ContextQA Platform across portal workflows, Chrome Extension, and AI-driven features, reporting 10+ critical issues that improved product reliability.​
   Updated and optimized 15+ GitBook documentation sections, embedding Storylane interactive demos and CTAs in collaboration with developers and marketing to enhance onboarding resources.​
 
-- **Application Development Intern** – Weekend Nuts
+- **##Application Development Intern** – Weekend Nuts
   -- Contributed to application development and UI enhancements, supporting feature implementation and refinement during the internship.​
   -- Gained hands-on exposure to backend logic and client-focused development, aligning features with business requirements in collaboration with the team.
 ---
