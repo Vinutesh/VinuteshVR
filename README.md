@@ -35,12 +35,12 @@ Based in Bengaluru, India
 ## 🏆 Professional Experience
 
 - **Test Automation Intern** – ContextQA, Remote
-- Executed 50+ automated test cases on the ContextQA Platform across portal workflows, Chrome Extension, and AI-driven features, reporting 10+ critical issues that improved product reliability.​
-- Updated and optimized 15+ GitBook documentation sections, embedding Storylane interactive demos and CTAs in collaboration with developers and marketing to enhance onboarding resources.​
+  *Executed 50+ automated test cases on the ContextQA Platform across portal workflows, Chrome Extension, and AI-driven features, reporting 10+ critical issues that improved product reliability.​
+  *Updated and optimized 15+ GitBook documentation sections, embedding Storylane interactive demos and CTAs in collaboration with developers and marketing to enhance onboarding resources.​
 
 - **Application Development Intern** – Weekend Nuts
-- Contributed to application development and UI enhancements, supporting feature implementation and refinement during the internship.​
-- Gained hands-on exposure to backend logic and client-focused development, aligning features with business requirements in collaboration with the team.
+  *Contributed to application development and UI enhancements, supporting feature implementation and refinement during the internship.​
+  *Gained hands-on exposure to backend logic and client-focused development, aligning features with business requirements in collaboration with the team.
 ---
 
 ## 📂 Projects
